@@ -1,3 +1,6 @@
 print("Welcome to the cool repository")
 print("Hello")
-cxdsfs
+
+num = 12
+print(num)
+
